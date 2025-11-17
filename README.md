@@ -28,8 +28,8 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 ```
-Name : Sanjai S
-Reg no : 212223230186
+Name : SRISHANTH J
+Reg no : 212223240160
 
 ```
 
